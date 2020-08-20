@@ -29,13 +29,14 @@ area = largura * altura
 print(area)
 print ((area * 2))
 '''
-''''
+
+'''
 file = int(input("Qual o tamanho do arquivo em MB? "))
 link = int(input("Qual a velocidade do link em Mbps?"))
 time = ((file * 8)/ link) / 60
 
 print("The time of download is:", time, "minutos")
-''''
+'''
 
 
 
